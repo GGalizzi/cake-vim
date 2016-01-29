@@ -6,6 +6,8 @@
 
 ![rust-example](screenshots/rust.png)
 
+![csshtml-example](screenshots/web.png)
+
 ##Installation
 
 Use Vundle, Pathogen or whatever fancies your pantsies.
