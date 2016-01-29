@@ -10,7 +10,7 @@
 
 Use Vundle, Pathogen or whatever fancies your pantsies.
 
-or stick it ~/.vim/colors/cake.vim
+or stick it in ~/.vim/colors/cake.vim
 
 ##Config
 
