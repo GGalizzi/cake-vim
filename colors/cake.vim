@@ -42,7 +42,7 @@ hi Typedef guifg=#e4afce guibg=NONE guisp=NONE gui=NONE ctermfg=182 ctermbg=NONE
 hi Title guifg=#268efd guibg=NONE guisp=NONE gui=NONE ctermfg=33 ctermbg=NONE cterm=NONE
 hi Folded guifg=#697c91 guibg=NONE guisp=NONE gui=NONE ctermfg=60 ctermbg=NONE cterm=NONE
 hi Float guifg=#75a1ff guibg=NONE guisp=NONE gui=NONE ctermfg=111 ctermbg=NONE cterm=NONE
-hi StatusLineNC guifg=#969696 guibg=#ededed guisp=#ededed gui=NONE ctermfg=246 ctermbg=255 cterm=NONE
+hi StatusLineNC guifg=#ebe6eb guibg=#855785 guisp=#855785 gui=NONE ctermfg=255 ctermbg=96 cterm=NONE
 hi NonText guifg=#c2c2c2 guibg=NONE guisp=NONE gui=NONE ctermfg=7 ctermbg=NONE cterm=NONE
 hi DiffText guifg=#809a32 guibg=#bae472 guisp=#bae472 gui=NONE ctermfg=107 ctermbg=149 cterm=NONE
 hi ErrorMsg guifg=NONE guibg=#f8b6a5 guisp=#f8b6a5 gui=NONE ctermfg=NONE ctermbg=217 cterm=NONE
@@ -60,7 +60,7 @@ hi Label guifg=#e4afce guibg=NONE guisp=NONE gui=NONE ctermfg=182 ctermbg=NONE c
 hi PMenuSel guifg=#f2f2f2 guibg=#4a314a guisp=#4a314a gui=NONE ctermfg=255 ctermbg=239 cterm=NONE
 hi Search guifg=NONE guibg=#ebbfed guisp=#ebbfed gui=NONE ctermfg=NONE ctermbg=225 cterm=NONE
 hi Delimiter guifg=#707070 guibg=NONE guisp=NONE gui=NONE ctermfg=242 ctermbg=NONE cterm=NONE
-hi Statement guifg=#72c954 guibg=NONE guisp=NONE gui=NONE ctermfg=113 ctermbg=NONE cterm=NONE
+hi Statement guifg=#7eb833 guibg=NONE guisp=NONE gui=NONE ctermfg=107 ctermbg=NONE cterm=NONE
 hi SpellRare guifg=NONE guibg=#ededed guisp=#ededed gui=NONE ctermfg=NONE ctermbg=255 cterm=NONE
 hi Comment guifg=#00a1b3 guibg=NONE guisp=NONE gui=NONE ctermfg=37 ctermbg=NONE cterm=NONE
 hi Character guifg=#707070 guibg=NONE guisp=NONE gui=NONE ctermfg=242 ctermbg=NONE cterm=NONE
@@ -84,7 +84,7 @@ hi Type guifg=#f041aa guibg=NONE guisp=NONE gui=NONE ctermfg=13 ctermbg=NONE cte
 hi DiffChange guifg=#e7f0f5 guibg=#4fd6b4 guisp=#4fd6b4 gui=NONE ctermfg=195 ctermbg=79 cterm=NONE
 hi Cursor guifg=#782164 guibg=#fd35fd guisp=#fd35fd gui=NONE ctermfg=89 ctermbg=13 cterm=NONE
 hi SpellLocal guifg=NONE guibg=#f0fff0 guisp=#f0fff0 gui=NONE ctermfg=NONE ctermbg=194 cterm=NONE
-hi Error guifg=NONE guibg=#fff0f0 guisp=#fff0f0 gui=NONE ctermfg=NONE ctermbg=224 cterm=NONE
+hi Error guifg=#db6097 guibg=#fff0f0 guisp=#fff0f0 gui=NONE ctermfg=168 ctermbg=224 cterm=NONE
 hi PMenu guifg=#4f5152 guibg=#f7c6ed guisp=#f7c6ed gui=NONE ctermfg=239 ctermbg=225 cterm=NONE
 hi SpecialKey guifg=#c2c2c2 guibg=NONE guisp=NONE gui=NONE ctermfg=7 ctermbg=NONE cterm=NONE
 hi Constant guifg=#bf75bf guibg=NONE guisp=NONE gui=NONE ctermfg=133 ctermbg=NONE cterm=NONE
